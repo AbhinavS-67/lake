@@ -26,7 +26,7 @@ GATE_HINT = "Type our secret word to come in."
 # Optional: lets her write back through the message-in-a-bottle.
 # Put your WhatsApp number with country code, digits only (e.g. "919876543210").
 # Leave "" and the bottle will simply copy her note so she can paste it to you.
-REPLY_WHATSAPP = ""
+REPLY_WHATSAPP = "916207993987"
 
 CONFIG = {
     "mapTitle": "A Little Lake, Just for You",
