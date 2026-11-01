@@ -133,9 +133,9 @@ CONFIG = {
     # Leave "photo" as "" to show a placeholder until you've added one.
     "memories": [
         {"photo": "us.jpeg", "caption": "One of those moments I wish I could experience all over again.", "date": "."},
-        {"photo": "WhatsApp Image 2026-11-01 at 22.37.08", "caption": "You, being completely you.", "date": "."},
-        {"photo": "WhatsApp Image 2026-11-01 at 22.37.07 (2)", "caption": "pretty you", "date": "."},
-        {"photo": "WhatsApp Image 2026-11-01 at 22.37.07", "caption": "pretty woman again" "date": "."},
+        {"photo": "WhatsApp Image 2026-11-01 at 22.37.08.jpeg", "caption": "You, being completely you.", "date": "."},
+        {"photo": "WhatsApp Image 2026-11-01 at 22.37.07 (2).jpeg", "caption": "pretty you", "date": "."},
+        {"photo": "WhatsApp Image 2026-11-01 at 22.37.07.jpeg", "caption": "pretty woman again", "date": "."},
     ],
 
     "bottle": {
