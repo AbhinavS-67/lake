@@ -132,10 +132,10 @@ CONFIG = {
     # Photos for the boat. Put images in the photos/ folder and list the file name.
     # Leave "photo" as "" to show a placeholder until you've added one.
     "memories": [
-        {"photo": "", "caption": "One of those moments I wish I could experience all over again.", "date": "add a date"},
-        {"photo": "", "caption": "You, being completely you.", "date": "add a date"},
-        {"photo": "", "caption": "The day that turned out better than planned.", "date": "add a date"},
-        {"photo": "", "caption": "Proof that we can't take a serious photo.", "date": "add a date"},
+        {"photo": "us.jpeg", "caption": "One of those moments I wish I could experience all over again.", "date": "."},
+        {"photo": "WhatsApp Image 2026-11-01 at 22.37.08", "caption": "You, being completely you.", "date": "."},
+        {"photo": "WhatsApp Image 2026-11-01 at 22.37.07 (2)", "caption": "pretty you", "date": "."},
+        {"photo": "WhatsApp Image 2026-11-01 at 22.37.07", "caption": "pretty woman again" "date": "."},
     ],
 
     "bottle": {
